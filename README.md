@@ -1,2 +1,2 @@
 # kaggle
-Kaggle Notebooks
+Kaggle Notebooks and other Jupyter notebooks
